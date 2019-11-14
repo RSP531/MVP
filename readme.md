@@ -48,6 +48,9 @@ Selous (say-lou) is a job search tracking tool. Selous enables job seekers to or
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" title="Redux" width="60px"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node.js" title="Node.js" width="60px"/></td>
+  <td align="center"><img /></td>
+  <td align="center"><img /></td>
+  <td align="center"><img src="https://warlord0blog.files.wordpress.com/2018/08/eslint.png?w=612" alt="ESlint" title="Eslint" width="80px"/></td>
   </tr>
 
 </table>
