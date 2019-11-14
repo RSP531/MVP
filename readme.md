@@ -20,7 +20,6 @@ React:
 
 [React]: https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png "stuff"
 
-
 ******* STUFF
 <img src ="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20%" height="20%">
 
