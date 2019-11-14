@@ -81,11 +81,11 @@ Lorem Ipsum
 
 ## Contributors
 
-[Joel Armendariz](https://github.com/joelarmendariz) 
-[Juan Galeazzi](https://github.com/jlgaleazzi) 
-[Devin George](https://github.com/devinkgeorge) 
-[Keenan Johns](https://github.com/FluxxField) 
-[Mario Morales](http://github.com/mariomorales7x7) 
-[Robert Peschke](http://github.com/robertpeschke) 
-[Miles Sobhani](https://github.com/MilesSobhani) 
-[Tyler Stanczak](https://github.com/tylerstanczak) 
+* [Joel Armendariz](https://github.com/joelarmendariz) 
+* [Juan Galeazzi](https://github.com/jlgaleazzi) 
+* [Devin George](https://github.com/devinkgeorge) 
+* [Keenan Johns](https://github.com/FluxxField) 
+* [Mario Morales](http://github.com/mariomorales7x7) 
+* [Robert Peschke](http://github.com/robertpeschke) 
+* [Miles Sobhani](https://github.com/MilesSobhani) 
+* [Tyler Stanczak](https://github.com/tylerstanczak) 
