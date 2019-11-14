@@ -15,7 +15,13 @@ Selous (say-lou) is a job search tracking tool. Selous enables job seekers to or
 | Redux         | Node          |             |          | ESLint    |
 
 
-React
+React:
+![alt text][React]
+
+[React]: https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png "stuff"
+
+
+******* STUFF
 <img src ="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20%" height="20%">
 
 React Router
